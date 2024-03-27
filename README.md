@@ -1,5 +1,5 @@
 # Calculadora de Salário de Vendedor
-![image info](TelaCalcular)
+![image info](TelaCalcular.png)
 Este é um sistema simples desenvolvido em PHP para calcular o salário de vendedores com base em metas de vendas semanais e mensais, conforme especificado em um cenário de empresa descrito.
 
 ## Descrição
